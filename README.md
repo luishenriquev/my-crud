@@ -1,3 +1,10 @@
+# como rodar
+clonar o projeto em sua maqueina.\
+rodar o yarn e depois subir a aplicação. `yarn start`
+
+será preciso clonar a api para continuar  --> https://github.com/luishenriquev/api-my-crud
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
